@@ -1,0 +1,13 @@
+Skills:
+	theory: тестирование, багрепорты, документация, направления_тестирования, SDLC,  STLS
+	server: серверная_архитектура, методы_запросов, ответы, стуктуры_запросов-ответов
+	formats: JSON, XML
+	programs": postman, fiddler, charles, python
+	VPN: как работает, зачем_нужен, как_использовать, варианты_инструментов
+	Dev_Tools: Google_Chrome, FireFox
+	мобильное_тестирование: iOS, Android,
+	командная_строка: terminal, linux, bush
+	SQL: create, delete, drop, insert_into, select, from, join
+	other: Git, Jmeter, Scrum
+
+
